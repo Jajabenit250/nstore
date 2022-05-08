@@ -19,7 +19,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.30.0",
+    "@aws-sdk/client-secrets-manager": "^3.72.0",
     "@aws-sdk/types": "^3.29.0",
     "@bugsnag/js": "^7.14.1",
     "@bugsnag/plugin-react": "^7.14.0",
