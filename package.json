@@ -31,7 +31,7 @@
     "@solana/wallet-adapter-base": "^0.7.0",
     "@solana/wallet-adapter-react": "^0.13.1",
     "@solana/wallet-adapter-wallets": "^0.11.3",
-    "@solana/web3.js": "^1.25.0",
+    "@solana/web3.js": "^1.39.1",
     "@types/amqplib": "^0.8.2",
     "ajv": "^8.6.2",
     "amqplib": "^0.8.0",
